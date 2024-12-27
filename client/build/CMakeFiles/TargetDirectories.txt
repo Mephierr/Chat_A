@@ -1,0 +1,3 @@
+/home/mephi/Work/Chat_A/client/build/CMakeFiles/client.dir
+/home/mephi/Work/Chat_A/client/build/CMakeFiles/edit_cache.dir
+/home/mephi/Work/Chat_A/client/build/CMakeFiles/rebuild_cache.dir
