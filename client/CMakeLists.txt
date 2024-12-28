@@ -15,4 +15,4 @@ add_executable(client client_main.cpp)
 
 # Связываем библиотеки с вашими исполняемыми файлами
 
-target_link_libraries(client PRIVATE Boost::system pthread )
+target_link_libraries(client PRIVATE socketio_client Boost::system Boost::thread )
